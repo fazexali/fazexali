@@ -1,5 +1,5 @@
 <h2 align="center"> Faiz Ali </h2>
-</br>
+</hr>
 <h3 align="center">Software Engineer from Pakistan</h3>
 
 - 🔭 I’m currently working on **React Native / Expo**
